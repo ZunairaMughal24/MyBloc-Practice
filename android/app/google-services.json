@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43127557065",
+    "project_id": "fir-bloc-4ebd9",
+    "storage_bucket": "fir-bloc-4ebd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43127557065:android:71c4874a7134110d157618",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbRjncbOUGEhULPX3V10p59Yybt2fy5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

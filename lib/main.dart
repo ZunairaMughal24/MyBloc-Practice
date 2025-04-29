@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       create: (context) => AuthCubit(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: "Verfication",
+        title: "Verfication Screen",
         theme: ThemeData(primaryColor: Colors.black, visualDensity: VisualDensity.adaptivePlatformDensity),
         home: VerifyNum(),
       ),
@@ -41,7 +41,7 @@ class VerifyNum extends StatelessWidget {
         backgroundColor: const Color.fromARGB(255, 11, 71, 95),
         title: const Center(
             child: Text(
-          "Verify Number",
+          "Verify your Number",
           style: TextStyle(fontSize: 19, color: Colors.white),
         )),
       ),
